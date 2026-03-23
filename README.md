@@ -26,7 +26,4 @@ Die Anlage besteht aus folgenden Hauptkomponenten:
 - Digitale Ausgänge zur Ansteuerung
 - Versorgung: +24V / GND
 
-#### Bedienelemente
-- Taster / Schalter (-S1)
-- Klemmen (-X10, -X11, etc.)
-- Signalverdrahtung zur SPS
+
