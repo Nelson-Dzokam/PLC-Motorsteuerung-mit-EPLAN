@@ -6,7 +6,6 @@ Dieses Projekt zeigt die Planung und Umsetzung einer Motorsteuerung mithilfe ein
 - Schaltplan:
 ![Schaltplan](https://github.com/Nelson-Dzokam/PLC-Motorsteuerung-mit-EPLAN/blob/main/Screenshot%202026-03-23%20013633.png)
 ![Schaltplan](https://github.com/Nelson-Dzokam/PLC-Motorsteuerung-mit-EPLAN/blob/main/Screenshot%202026-03-23%20013556.png)
-
 - Layout Space:
 ![Layout Space](https://github.com/Nelson-Dzokam/PLC-Motorsteuerung-mit-EPLAN/blob/main/Screenshot%202026-03-23%20043253.png)
 
