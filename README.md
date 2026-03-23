@@ -2,6 +2,8 @@
 ## Projektbeschreibung
 
 Dieses Projekt zeigt die Planung und Umsetzung einer Motorsteuerung mithilfe einer SPS (PLC), erstellt mit EPLAN.
+
+- Schaltplan:
 (https://github.com/Nelson-Dzokam/PLC-Motorsteuerung-mit-EPLAN/blob/main/Screenshot%202026-03-23%20013633.png)
 Ziel ist die Steuerung eines Drehstrommotors (3~) inklusive:
 
